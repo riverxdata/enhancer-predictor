@@ -1,7 +1,7 @@
 # Enhancer_predictor
 Enhancer predictor is the tool to predict the enhancers of target genes using the omics data
 
-Currently, we adapt the model of latest v1.1.2 ABC enhancer (https://github.com/broadinstitute/ABC-Enhancer-Gene-Prediction/releases/tag/v1.1.2).
+Currently, this one is the nextflow version of the original pipeline of v1.1.2 ABC enhancer (https://github.com/broadinstitute/ABC-Enhancer-Gene-Prediction/releases/tag/v1.1.2).
 ## Installization
 + Nextflow v23.10.1
 + Docker v27.3.0
